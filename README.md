@@ -1,6 +1,24 @@
-# Vue 3 + Vite
+# search meals recipe
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+search meals recipe App with vue 3, vite, tailwind css
+
+## Demo
+
+comming soon
+
+## Installation
+
+1.Clone the project
+
+    git clone https://github.com/thecodeholic/vue-meals-app.git
+
+2.Run
+
+    npm install
+
+3.Copy .env.example into .env
+
+    cp .env.example .env
 
 ## Recommended IDE Setup
 
