@@ -4,7 +4,7 @@ search meals recipe App with vue 3, vite, tailwind css
 
 ## Demo
 
-comming soon
+(https://search-meail.netlify.app)
 
 ## Installation
 
