@@ -1,6 +1,6 @@
 # search meals recipe
 
-search meals recipe App with vue 3, vite, tailwind css and themealdb api for the meals recipe
+search meals recipe App with vue 3, vite, pinia ,tailwind css and themealdb api for the meals recipe
 
 ## Demo
 
