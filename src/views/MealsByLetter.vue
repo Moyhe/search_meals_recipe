@@ -4,6 +4,7 @@
     </div>
     <div class="flex flex-wrap justify-center gap-3 px-8 mb-6">
       <router-link
+      active-class=""
         :to="{ name: 'byLetter', params: { letter } }"
         v-for="letter of letters"
         :key="letter"
