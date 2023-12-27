@@ -3,6 +3,12 @@
 @tailwind utilities;
 
 
+.active {
+
+    background-color: slategray;
+    color: white;
+}
+
 .dmtop {
 
     background-color: steelblue;
