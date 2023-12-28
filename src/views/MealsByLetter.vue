@@ -4,9 +4,9 @@
     </div>
     <div class="flex flex-wrap justify-center gap-3 px-8 mb-6">
       <router-link
-      active-class=""
+        active-class=""
         :to="{ name: 'byLetter', params: { letter } }"
-        v-for="letter of letters"
+         v-for="letter of letters"
         :key="letter"
         class="w-2 h-2 flex items-center justify-center hover:text-slate-500 hover:scale-150 transition-all"
       >
