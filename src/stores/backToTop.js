@@ -13,9 +13,8 @@ export let useScrollTop = defineStore('topButton', {
             (window.scrollY > 1) ? topBtn.style.bottom = "60px" : topBtn.style.bottom = "-100px";
     
         }
-        
-        },
 
+        },
           scrollToTop() {
          
            window.scrollTo({top: 0, behavior: 'smooth'}) 

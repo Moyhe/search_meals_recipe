@@ -13,7 +13,7 @@ export let useGetMealsByLetter = defineStore('mealsByLetters', {
        
         async searchMealsByLetter(letter) {
            try {
-            await axiosClient.get(`search.php?s=${letter}`)
+            await axiosClient.get(`search.php?f=${letter}`)
             .then(({ data }) => {
               this.mealsByLetter = data.meals
             })
